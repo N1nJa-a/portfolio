@@ -31,7 +31,7 @@
 <!-- [<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#) -->
 [<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />](#)
 [<img align="left" alt="Figma" width="45px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](#)
-[<img align="left" alt="Webflow" width="45px" src="https://assets-global.website-files.com/5e4b0a5b34c5f3761e44d678/5e4b0a5b34c5f3f42344d6d2_webflow-logo-vector-white_fitted.svg" />](#)
+[<img align="left" alt="Webflow" width="45px" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg"/>](#)
 
 <br />
 <br />
